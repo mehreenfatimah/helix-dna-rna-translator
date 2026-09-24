@@ -1,5 +1,6 @@
 # HELIX — DNA/RNA Six-Frame Translator
 
+[🌐 Live Demo](https://helix-dna-rna-translator.vercel.app/) · [Source Code](https://github.com/mehreenfatimah/helix-dna-rna-translator)
 HELIX is an educational bioinformatics web tool for validating nucleotide sequences, translating all six reading frames, detecting simple open reading frames (ORFs), and summarizing sequence composition.
 
 > **Project provenance:** originally developed as university bioinformatics-software coursework. This repository is a later refactor of the original notebook/web prototype into a cleaner, testable project. See [`docs/PROJECT_HISTORY.md`](docs/PROJECT_HISTORY.md).
