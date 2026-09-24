@@ -1,0 +1,6 @@
+Metadata-Version: 2.4
+Name: helix-translator
+Version: 1.0.0
+Summary: Educational DNA/RNA six-frame translation and ORF analysis tool
+Requires-Python: >=3.10
+Requires-Dist: Flask<4,>=3.0

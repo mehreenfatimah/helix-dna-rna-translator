@@ -1,0 +1,28 @@
+HELIX Translator Results
+Length: 5 bp | GC: 20%
+======================================================================
+
+Frame +1 (+ strand):
+ATA
+ I
+
+Frame +2 (+ strand):
+TAC
+ Y
+
+Frame +3 (+ strand):
+ACA
+ T
+
+Frame -1 (- strand):
+TGT
+ C
+
+Frame -2 (- strand):
+GTA
+ V
+
+Frame -3 (- strand):
+TAT
+ Y
+
